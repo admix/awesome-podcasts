@@ -249,3 +249,6 @@ List of podcasts which are helpful for software engineers/programmers.
 - [NodeUp](http://nodeup.com/)
 
 - [Syntax](https://syntax.fm/)
+
+
+other new line
